@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @upendrakolli
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on ...
+-👋 Hi, I’m @upendrakolli
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning ML,NLP,DL
+- 💞️ I’m looking to collaborate on Machine Learning Projects.
+- 📖 Ask me about Python,Sql,Machine Learning
 - 📫 How to reach me upendrakolli123@gmail.com or upendrakolli15@gmail.com
 
 <!---
